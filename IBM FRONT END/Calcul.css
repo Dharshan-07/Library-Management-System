@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    margin: 0;
+    background-color: lightblue;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+
+.calculator{
+    margin: 10%;
+    padding: 60px;
+    spacing
+    display: flexbox;
+    height: max-content;
+    background-color: blanchedalmond;     
+    width: fit-content;
+}
+
+button{
+    margin: 0px;
+    padding: 10px;
+}

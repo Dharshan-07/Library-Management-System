@@ -1,0 +1,15 @@
+*{
+    position: absolute;
+}
+
+.fixed{
+    display: flexbox;
+    margin: 0rem;
+}
+
+li{
+    background-color: blue;
+    padding: 20 rem;
+    border: 20rem;
+    margin: 30rem;
+}
